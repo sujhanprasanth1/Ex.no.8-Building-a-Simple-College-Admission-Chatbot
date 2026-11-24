@@ -47,6 +47,10 @@ Output
 ●	The remaining queries about dates, hostel facility and contact details are correctly matched to their respective intents.
 ●	The conversation ends gracefully with a goodbye message once the user types “Bye”, terminating the chat loop.
 <img width="660" height="380" alt="image" src="https://github.com/user-attachments/assets/698ac90d-7962-406c-b381-03d16bedfb3b" />
+
+<img width="1032" height="700" alt="image" src="https://github.com/user-attachments/assets/fcde8a88-f215-403d-ab4b-38a4036d6d67" />
+
+
 ## Conclusion
 Thus, a simple rule-based College Admission Chatbot was successfully designed, implemented and tested using Python. The chatbot uses a keyword/pattern-based knowledge base to identify the intent behind a user's question and responds with an appropriate, pre-defined answer covering courses, eligibility, fees, application process, documents, dates, hostel and contact information. The experiment demonstrates the fundamental building blocks — knowledge base design, intent matching and response generation — on which more advanced NLP-based and AI-based chatbots are built.
 
